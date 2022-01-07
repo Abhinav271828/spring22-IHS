@@ -56,7 +56,3 @@ Many philosophers say that scientific theories are abductive arguments.
 ## Evaluating Multistep Arguments
 
 ## Some Arguments to Evaluate
-(t) Weather forecasts for the coming week or so are more or less accurate, but longer range weather forecasts are untrustworthy. Also,the longer the range of the forecast, the less trustworthy it is. When climate scientists make predictions about global temperatures over the next few decades,they are, in effect, issuing very long-term weather forecasts. So these predictions are not to be taken seriously.  
-
-(u) We all know that it is very difficult to lead a completely mo nogamous life. Even in the case of couples who are devoted to monogamy, so-called cheating is very common. Nevertheless, most people continue to believe that monogamy should be our goal. I think that this is wrong. It is a mistake, I think, to live monogamously. Monogamy is rare in the animal kingdom. What’s more, none of the species most closely related to humans are monogamous. This shows that monogamy is unnatural. Our problem is not that we fail to live up to the ideal of monogamy; our problem is that we make this our ideal in the first place.  
-

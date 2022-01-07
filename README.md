@@ -16,3 +16,6 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
 # Lecture Contents
 * Week 1
     * Lecture 1 (04 Jan, Tuesday)
+    * Lecture 2 (07 Jan, Friday)
+        - Arguments
+        - Knowledge and Understanding
