@@ -3,8 +3,8 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
 
 # Course Contents
 - [ ] Philosophy
-    - [ ] The *a priori*
-    - [ ] Artificial Intelligence
+    - [x] The *a priori*
+    - [x] Artificial Intelligence
     - [ ] Chinese Room
     - [ ] Free Will
     - [ ] Moral Luck
@@ -33,3 +33,8 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
         - Knowledge and Understanding
             - *A Priori* vs. *A Posteriori* (contd.)
         - Artificial Intelligence
+* Week 3
+    * Lecture 4 (18 Jan, Tuesday)
+        - Thinking and Consciousness
+            - Searle's Chinese Room
+            - Responses to Searle's Argument
