@@ -5,7 +5,7 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
 - [ ] Philosophy
     - [x] The *a priori*
     - [x] Artificial Intelligence
-    - [ ] Chinese Room
+    - [x] Chinese Room
     - [ ] Free Will
     - [ ] Moral Luck
     - [ ] Science vs. Luck
@@ -38,3 +38,10 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
         - Thinking and Consciousness
             - Searle's Chinese Room
             - Responses to Searle's Argument
+    * Lecture 5 (21 Jan, Friday)
+        - Free Will
+            - Responsibility
+            - Free Will
+            - Theism
+            - Incompatibilism
+            - The Control Principle
