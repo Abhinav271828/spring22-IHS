@@ -6,7 +6,7 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
     - [x] The *a priori*
     - [x] Artificial Intelligence
     - [x] Chinese Room
-    - [ ] Free Will
+    - [x] Free Will
     - [ ] Moral Luck
     - [ ] Science vs. Luck
 - [ ] History
@@ -45,3 +45,9 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
             - Theism
             - Incompatibilism
             - The Control Principle
+* Week 4
+    * Lecture 6 (25 Jan, Tuesday)
+        - Moral Luck
+            - The Absurdity of Moral Luck
+            - The Epistemic Condition
+            - The Competence Condition
