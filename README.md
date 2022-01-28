@@ -7,8 +7,8 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
     - [x] Artificial Intelligence
     - [x] Chinese Room
     - [x] Free Will
-    - [ ] Moral Luck
-    - [ ] Science vs. Luck
+    - [x] Moral Luck
+    - [x] Science vs. Luck
 - [ ] History
 - [ ] Literature
 - [ ] Psychology
@@ -51,3 +51,5 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
             - The Absurdity of Moral Luck
             - The Epistemic Condition
             - The Competence Condition
+    * Lecture 7 (28 Jan, Friday)
+        - Philosophy and Science
