@@ -2,7 +2,7 @@
 Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
 
 # Course Contents
-- [ ] Philosophy
+- [x] Philosophy
     - [x] The *a priori*
     - [x] Artificial Intelligence
     - [x] Chinese Room
@@ -53,3 +53,7 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
             - The Competence Condition
     * Lecture 7 (28 Jan, Friday)
         - Philosophy and Science
+* Week 5
+    * Lecture 1 (04 Feb, Friday)
+        - Knowledge in the Pre-Modern World
+        - History
