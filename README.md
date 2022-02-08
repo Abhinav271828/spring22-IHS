@@ -57,3 +57,7 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
     * Lecture 1 (04 Feb, Friday)
         - Knowledge in the Pre-Modern World
         - History
+* Week 6
+    * Lecture 2 (08 Feb, Friday)
+        - Historical Time
+        - Periods of History
