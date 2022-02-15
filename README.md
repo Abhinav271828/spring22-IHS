@@ -64,3 +64,8 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
     * Lecture 3 (11 Feb, Friday)
         - Change and Continuity
         - Causes and Consequences
+* Week 7
+    * Lecture 4 (15 Feb, Tuesday)
+        - Source Criticism
+            - Steps of Source Criticism
+            - Non-Textual Sources
