@@ -69,3 +69,5 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
         - Source Criticism
             - Steps of Source Criticism
             - Non-Textual Sources
+    * Lecture 5 (18 Feb, Friday)
+        - The Fact
