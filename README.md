@@ -71,3 +71,11 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
             - Non-Textual Sources
     * Lecture 5 (18 Feb, Friday)
         - The Fact
+* Week 8
+    * Lecture 6 (22 Feb, Tuesday)
+        - Indian History
+            - The Vedic and Buddhist Traditions
+            - The Orientalists
+            - Important Milestones
+            - Perspectives
+    * Lecture 7 (25 Feb, Friday)
