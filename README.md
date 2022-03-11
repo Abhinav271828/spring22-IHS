@@ -9,7 +9,7 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
     - [x] Free Will
     - [x] Moral Luck
     - [x] Science vs. Luck
-- [ ] History
+- [x] History
 - [ ] Literature
 - [ ] Psychology
 
@@ -79,3 +79,7 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
             - Important Milestones
             - Perspectives
     * Lecture 7 (25 Feb, Friday)
+* Week 9
+    * Lecture 1 (08 Mar, Tuesday)
+        - The Need for the Humanities
+        - What Is Culture?
