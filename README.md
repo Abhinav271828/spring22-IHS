@@ -83,3 +83,6 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
     * Lecture 1 (08 Mar, Tuesday)
         - The Need for the Humanities
         - What Is Culture?
+    * Lecture 2 (11 Mar, Wednesday)
+        - What Is Culture? (contd.)
+        - The Study of Culture
