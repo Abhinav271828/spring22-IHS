@@ -92,3 +92,6 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
     * Lecture 4 (17 Mar, Thursday)
         - Colonialism and Literature?
         - Controversy
+* Week 11
+    * Lecture 5 (22 Mar, Tuesday)
+        - Cinema
