@@ -10,7 +10,7 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
     - [x] Moral Luck
     - [x] Science vs. Luck
 - [x] History
-- [ ] Literature
+- [x] Literature
 - [ ] Psychology
 
 # Lecture Contents
@@ -95,3 +95,8 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
 * Week 11
     * Lecture 5 (22 Mar, Tuesday)
         - Cinema
+* Week 12
+    * Lecture 1 (01 Apr, Friday)
+        - What Is Psychology?
+            - Disordered Mind and Behaviour
+            - Ordered Mind and Behaviour
