@@ -100,3 +100,8 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
         - What Is Psychology?
             - Disordered Mind and Behaviour
             - Ordered Mind and Behaviour
+* Week 13
+    * Lecture 2 (05 Apr, Tuesday)
+        - What Is Psychology? (contd.)
+            - Goals of Psychology
+            - Levels of Psychological Analysis
