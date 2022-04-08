@@ -105,3 +105,8 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
         - What Is Psychology? (contd.)
             - Goals of Psychology
             - Levels of Psychological Analysis
+    * Lecture 3 (08 Apr, Friday)
+        - History of Psychology
+            - Structuralism and Functionalism
+            - Behaviourism
+            - Cognitivism
