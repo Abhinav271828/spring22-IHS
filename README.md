@@ -110,3 +110,7 @@ Notes and resources for the Intro to Human Sciences course at IIIT Hyderabad.
             - Structuralism and Functionalism
             - Behaviourism
             - Cognitivism
+* Week 15
+    * Lecture 4 (19 Apr, Tuesday)
+        - Experimental Analysis
+        - Perception
